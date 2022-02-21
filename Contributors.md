@@ -8,3 +8,4 @@
 - [Pius Tumwebaze](https://github.com/Vladmir-dev)
 - [Rodrick Calvin Wamala](https://github.com/rodrickcalvin)
 - PATRICK FITZ
+- [Abdulkadir Huzeifa Asgerali](https://github.com/AbdulkadirH5253) 
